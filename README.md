@@ -1,6 +1,10 @@
 # Data-Analytics-course
 
-This course  **Introduction to Data Analytics with Power BI** developed for the creation of course content and methodology by **Gabriela Espinoza Picado**.
+   <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+
+This course  **Introduction to Data Analytics with Power BI** developed for the creation of course content and methodology by **Gabriela Espinoza Picado**.:rainbow:
 
 [![Alt text](https://img.youtube.com/vi/XT5uihctMMQ/0.jpg)](https://www.youtube.com/XT5uihctMMQ)
 
@@ -52,8 +56,6 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- Snow Flake Schema
 		- Mixed Schema	
 
-
-
 [![Alt text](https://www.edureka.co/blog/wp-content/uploads/2017/06/Power-BI.ai-1.jpg)
 
 1. **Power BI Desktop**
@@ -77,9 +79,6 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- Computing new columns from available columns
 		- spliting columns
 		- renameing columns
-		- observing transformation steps
-		- understanding M-Language
-		- Computed columns/calculations
 	- M-Language
 	- Combine Queries
 		- Append
@@ -102,7 +101,7 @@ As teacher of the data analysis technical course at a non-profit organization fo
 
 [![Alt text] (https://www.itop.es/templates/yootheme/cache/Power-BI-Funcionalidades-7efc801f.png)
 	
-1.  **Power BI Desktop - Power Pivot - Modelling**
+1.  **Power BI  - Modelling**
 	- Introduction
 	- What is Relationship?
 	- What is Cardinality
@@ -111,15 +110,13 @@ As teacher of the data analysis technical course at a non-profit organization fo
 	- What type of direction used in star schema?
 	- When to go for Single direction?
 	- When to go for Both direction?
-1.  **Power BI Desktop - Power Pivot - Data Analysis Expressions(DAX)- Calculations**
-	- Introduction	
-	- When to go for new column
-	- When to go for New Mesure
-	- New column Vs New Measure
-	- What is Implicity Mesure
-	- What is Explicity Mesure
-	- What is compound Mesure
-	- What is Computed column?
+1.  **Power BI  - Data Analysis Expressions(DAX)**
+2  	- Introduction
+	- Open Power BI Model in DAX Studio
+	- What is DAX Query
+	- See Dax Query using Performance Analyser tool
+	- Manage Table Relationships
+	- Optimize the Data Model
 	- Where to create New column in Power Query or DAX ?
 	Some functiones, examples:
 	- Date and time functions
@@ -166,30 +163,16 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- CALCULATETABLE
 		- Difference between Calculate Vs Calculatetable
 		- REMOVEFILTERS
-
 	- Time functions
 		- SAMEPERIODLASTYEAR
 		- TOTALYTD
-		- ...etc
 	- Explain DAX Statements
 		- Define
 		- Evalute
 		- Var
 		- Order By
-	
-1.  **DAX Studio**
-	- Introduction
-	- What are Power BI External Tools
-	- Open Power BI Model in DAX Studio
-	- What is DAX Query
-	- See Dax Query using Performance Analyser tool
-	- Manage Table Relationships
-	- Last Year Comparison
-	- Year to Date
-	- Market Share
-	- Optimize the Data Model
         
-1. **Power BI Desktop - Power View - Report - Visualization**
+1. **Power BI Desktop - Power View - Report **
 	- Introduction
 	- Hierarchy
 		- Creating hierarchy
@@ -245,7 +228,7 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- Trend Report
 		- Rank Report
     
-1. **Dashboard**
+1. **Dashboard- Visualization**
 	- Dashboard
 		- Create Dashboard
 		- Share Dashboard
