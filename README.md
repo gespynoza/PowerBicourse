@@ -15,10 +15,7 @@ This course  **Introduction to Data Analytics with Power BI** developed for the 
 
 As teacher of the data analysis technical course at a non-profit organization focused on digital gender gap, I was responsible for the creation of course content and methodology, as well as the selection of relevant topics and examples. I taught students how to use relational databases through the SQL structured query language and how to develop dashboards in Power BI. My efforts were met with a high rate of approval, and my students were extremely satisfied with the course. I am proud of the positive impact I made in this role and am confident in my ability to teach and inspire others
 
-
-
-
----
+--
 
 
 ## Course Content
@@ -101,7 +98,7 @@ As teacher of the data analysis technical course at a non-profit organization fo
 
 [![Alt text] (https://www.itop.es/templates/yootheme/cache/Power-BI-Funcionalidades-7efc801f.png)
 	
-1.  **Power BI  - Modelling**
+1.  **Modelling**
 	- Introduction
 	- What is Relationship?
 	- What is Cardinality
@@ -110,8 +107,8 @@ As teacher of the data analysis technical course at a non-profit organization fo
 	- What type of direction used in star schema?
 	- When to go for Single direction?
 	- When to go for Both direction?
-1.  **Power BI  - Data Analysis Expressions(DAX)**
-2  	- Introduction
+1.  **Data Analysis Expressions(DAX)**
+	- Introduction
 	- Open Power BI Model in DAX Studio
 	- What is DAX Query
 	- See Dax Query using Performance Analyser tool
@@ -172,7 +169,7 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- Var
 		- Order By
         
-1. **Power BI Desktop - Power View - Report **
+1. **Power View - Report **
 	- Introduction
 	- Hierarchy
 		- Creating hierarchy
