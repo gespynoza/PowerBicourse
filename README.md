@@ -20,7 +20,7 @@ As teacher of the data analysis technical course at a non-profit organization fo
 ## Course Content
 
 ---
-
+[![Alt text](https://thedevelopmentstages.com/wp-content/uploads/2021/04/POWER-BI-6.jpg)
 
 1. **Introduction**
 	- Why is important to understand about Data?
