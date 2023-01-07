@@ -54,7 +54,7 @@ As teacher of the data analysis technical course at a non-profit organization fo
 
 
 
-[![Alt text] (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwp-content%2Fuploads%2F2017%2F06%2FPower-BI.ai-1.jpg&f=1&nofb=1&ipt=b40f3584e5271d4aba2f93da4ae5c458665dfb969bb209c904387ec9626b6eb9&ipo=images)
+[![Alt text] (https://www.edureka.co/blog/wp-content/uploads/2017/06/Power-BI.ai-1.jpg)
 
 1. **Power BI Desktop**
 	- Introduction to Power BI Desktop
