@@ -261,3 +261,6 @@ As teacher of the data analysis technical course at a non-profit organization fo
 ## Examples of the students dashboards
 ----
 [![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.W9zESTQa82QKOr8R3F285wHaET%26pid%3DApi&f=1&ipt=e0baab0a4a35fd390958ef9191c18a3b66b86787e9290ed3b6e9a243db732b37&ipo=images)]
+
+
+![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.837-5U6HUwo1UBAxvimB7AHaEK%26pid%3DApi&f=1&ipt=47a4060b32ed2af786ee7115456c7c9756f6d9b4b6242635ab28164c2977d7b4&ipo=images)
