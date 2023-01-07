@@ -98,6 +98,9 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- Import Data from Access Database
 		- Import Data from a Folder Containing CSV Files
 		- Import a Less Structured Data from an Excel File
+
+
+[![Alt text] (https://www.itop.es/templates/yootheme/cache/Power-BI-Funcionalidades-7efc801f.png)
 	
 1.  **Power BI Desktop - Power Pivot - Modelling**
 	- Introduction
