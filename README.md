@@ -1,5 +1,9 @@
-# Power BI
-This Repository has **Power BI** developed for the creation of course content and methodology by **Gabriela Espinoza Picado**.
+# Data-Analytics-course
+
+This course  **Introduction to Data Analytics with Power BI** developed for the creation of course content and methodology by **Gabriela Espinoza Picado**.
+
+[![Alt text](https://img.youtube.com/vi/XT5uihctMMQ/0.jpg)](https://www.youtube.com/XT5uihctMMQ)
+
 
 
 
