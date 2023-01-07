@@ -51,6 +51,11 @@ As teacher of the data analysis technical course at a non-profit organization fo
 		- Star Schema
 		- Snow Flake Schema
 		- Mixed Schema	
+
+
+
+[![Alt text] (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwp-content%2Fuploads%2F2017%2F06%2FPower-BI.ai-1.jpg&f=1&nofb=1&ipt=b40f3584e5271d4aba2f93da4ae5c458665dfb969bb209c904387ec9626b6eb9&ipo=images)
+
 1. **Power BI Desktop**
 	- Introduction to Power BI Desktop
 	- Power BI Desktop Components
@@ -264,3 +269,5 @@ As teacher of the data analysis technical course at a non-profit organization fo
 
 
 ![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.837-5U6HUwo1UBAxvimB7AHaEK%26pid%3DApi&f=1&ipt=47a4060b32ed2af786ee7115456c7c9756f6d9b4b6242635ab28164c2977d7b4&ipo=images)
+
+![Alt text](https://www.pk-anexcelexpert.com/wp-content/uploads/2020/09/Quality-Dashboard-1.jpg)
